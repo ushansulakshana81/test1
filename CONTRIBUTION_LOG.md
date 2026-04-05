@@ -6,3 +6,4 @@
 2026-03-19 | Ushan | Styling and layout refinements
 2026-03-24 | Sahan | Asset cleanup
 2026-03-30 | Ushan | State handling updates
+2026-04-05 | Sahan | UI flow polish
