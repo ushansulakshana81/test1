@@ -8,3 +8,4 @@
 2026-03-30 | Ushan | State handling updates
 2026-04-05 | Sahan | UI flow polish
 2026-04-14 | Ushan | Behavior stabilization
+2026-04-25 | Sahan | Release readiness
